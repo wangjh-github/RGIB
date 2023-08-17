@@ -1,0 +1,20 @@
+cora:
+  stepsize_x: 0.0001
+  p: 0.5
+  eps_x: 0.5
+  nlayers: 2
+citeseer:
+  stepsize_x: 0.00005
+  p: 0.1
+  eps_x: 0.3
+  nlayers: 3
+cora_ml:
+  stepsize_x: 0.0001
+  p: 0.1
+  eps_x: 0.5
+  nlayers: 2
+pubmed:
+  stepsize_x: 0.0001
+  p: 0.5
+  eps_x: 0.5
+  nlayers: 1
